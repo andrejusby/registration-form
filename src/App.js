@@ -1,9 +1,11 @@
 import Register from "./Pages/Register";
+import Login from "./Pages/Login";
 
 function App() {
   return (
     <main className="App">
-      <Register/>
+      <Login/>
+      
     </main>
   );
 }
